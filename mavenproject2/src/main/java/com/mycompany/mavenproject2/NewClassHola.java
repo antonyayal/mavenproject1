@@ -13,5 +13,6 @@ public class NewClassHola {
     public static void main(String[] args) {
         System.out.println("HHHHHHOOOOOLLLLLLAAAAAA");
         //Nueva linea
+        System.out.println("LALALALALALa");
     }
 }
