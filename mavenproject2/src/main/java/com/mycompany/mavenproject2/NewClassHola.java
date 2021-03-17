@@ -12,5 +12,6 @@ package com.mycompany.mavenproject2;
 public class NewClassHola {
     public static void main(String[] args) {
         System.out.println("HHHHHHOOOOOLLLLLLAAAAAA");
+        //Nueva linea
     }
 }
